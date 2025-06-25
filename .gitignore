@@ -2,4 +2,3 @@ data/
 EDSR-PyTorch/src/data/sharpness/
 experiment/
 EDSR-PyTorch/experiment/edsr_sharpness_finetune_x1/
-!EDSR-PyTorch/experiment/test/
